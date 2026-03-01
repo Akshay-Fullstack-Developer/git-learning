@@ -1,2 +1,2 @@
 completely changed the changes of feature 1 and use this changes. 
-this is the line that i want to changes.
+this is the line that i want to changes
